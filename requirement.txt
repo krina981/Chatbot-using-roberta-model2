@@ -1,0 +1,9 @@
+# Web App Framework
+streamlit==1.30.0
+
+# PDF Parsing
+PyPDF2==3.0.1
+
+# Hugging Face Inference
+huggingface_hub==0.21.4
+requests>=2.0.0
